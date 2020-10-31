@@ -43,5 +43,6 @@ Automatic Irrigation  monitoring and controlling system
 
    https://docs.google.com/presentation/d/1oMp7Bw_PBypz0zYpGcZCykH7TEDV9A1xbrRWUsWGWLA/edit?usp=sharing
    https://docs.google.com/document/d/1LNnFur44dbkVS0mvqADQl2qQWUQ8jRVn26nY9UYToFQ/edit?usp=sharing
+   https://drive.google.com/file/d/1ZJyu2wiZ-QpSk2ZkJftJk9MZ9dZ3l5qs/view?usp=sharing
    
    
